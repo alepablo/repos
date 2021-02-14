@@ -1,0 +1,15 @@
+{
+  "name": "yogopro",
+  "version": "1.0.0",
+  "description": "Proyecto para consumir API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API",
+    "yogopro"
+  ],
+  "author": "Pablo Hidalgo",
+  "license": "MIT"
+}
